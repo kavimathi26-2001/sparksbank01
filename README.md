@@ -1,9 +1,11 @@
-# sparksbank01
+# THE CO-OPERATIVE BANK
 I have created this webpage for the sparks internship.
-# THE CO-OPERATIVE BANK Graduate Rotational Internship Program- The Sparks Foundation  This project is done as a part of The Sparks Foundation Internship  
+THE CO-OPERATIVE BANK Graduate Rotational Internship Program- The Sparks Foundation  This project is done as a part of The Sparks Foundation Internship  
 #GRIPAUGUST2021 
-## DOMAIN:   Web Development 
-## TASK:   Basic Banking System  I have developed a web application for a Basic Banking Sytem for my web development project.  
+## DOMAIN:  
+Web Development 
+## TASK:   Basic Banking System  
+I have developed a web application for a Basic Banking Sytem for my web development project.  
 ## Technologies Used  
 ![HTML](https://img.shields.io/badge/frontend-html-orange.svg?logo=html5&style=flat-square) 
 ![CSS](https://img.shields.io/badge/frontend-css-yellowgreen.svg?logo=css3&style=flat-square)
